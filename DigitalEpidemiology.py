@@ -23,6 +23,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import seaborn as sns
 
+matplotlib.use('Agg')
 
 #Read from csv
 data2016 = pd.read_csv("data2016.csv")
