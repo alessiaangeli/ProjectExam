@@ -20,7 +20,6 @@ YEARS: 2016, 2017, 2018
 import pandas as pd
 import numpy as np
 import matplotlib
-import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import seaborn as sns
 
